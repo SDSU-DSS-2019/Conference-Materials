@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549050289513.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1550986364",
+    "id" : "6A3B7BB5",
+    "lastKnownWriteTime" : 1549116488,
+    "last_content_update" : 1549116488141,
+    "path" : "C:/Users/sullivanstats/Dropbox (Personal)/Brown/Teaching/Outside of Brown Courses/tidy-sdsu-2019/Practice Work/01-ggplot-visualization.Rmd",
+    "project_path" : "01-ggplot-visualization.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "13,0",
+        "last_setup_crc32" : "",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549122349204.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3421794102",
+    "id" : "BCE91F79",
+    "lastKnownWriteTime" : 1547650075,
+    "last_content_update" : 1547650075,
+    "path" : "C:/Users/sullivanstats/Dropbox (Personal)/Brown/Teaching/Outside of Brown Courses/tidy-sdsu-2019/master-the-tidyverse/03-Tidy-Data.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "chunk_output_type" : "inline"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

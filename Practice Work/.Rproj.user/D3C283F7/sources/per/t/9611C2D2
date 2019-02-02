@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549050330948.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3219001160",
+    "id" : "9611C2D2",
+    "lastKnownWriteTime" : 1547650100,
+    "last_content_update" : 1547650100,
+    "path" : "C:/Users/sullivanstats/Dropbox (Personal)/Brown/Teaching/Outside of Brown Courses/tidy-sdsu-2019/data-science-in-tidyverse/01-Visualize.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "17,0",
+        "scrollLine" : "4"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

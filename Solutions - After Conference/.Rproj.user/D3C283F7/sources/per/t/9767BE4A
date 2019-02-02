@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549122325302.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "382363408",
+    "id" : "9767BE4A",
+    "lastKnownWriteTime" : 1547650075,
+    "last_content_update" : 1547650075,
+    "path" : "C:/Users/sullivanstats/Dropbox (Personal)/Brown/Teaching/Outside of Brown Courses/tidy-sdsu-2019/master-the-tidyverse/02-Transform-Data.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "18,32",
+        "scrollLine" : "2"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

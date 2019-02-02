@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549117944922.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2B245113",
+    "lastKnownWriteTime" : 3346849036566623844,
+    "last_content_update" : 1549117944922,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "650CE10D",
+        "caption" : "Apps_gre_scores_1_",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Apps_gre_scores_1_&cache_key=650CE10D",
+        "displayedObservations" : 240,
+        "environment" : "",
+        "object" : "Apps_gre_scores_1_",
+        "preview" : 0,
+        "totalObservations" : 240,
+        "variables" : 28
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

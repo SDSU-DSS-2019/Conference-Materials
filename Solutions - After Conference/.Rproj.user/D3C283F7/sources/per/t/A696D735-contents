@@ -1,0 +1,46 @@
+---
+title: "03 Tidying data with `tidyr` Practice"
+output: html_notebook
+---
+
+
+## On Your Own: RStudio Practice #9
+
+- In this example we will use the dataset `population` that is part of tidyverse. 
+- Print this data:
+
+```{r, echo=FALSE}
+library(tidyverse)
+head(population,1)
+```
+
+
+
+- You should see the table that we have above, now We have a variable named `year`, assume that we wish to actually have each year as its own variable. 
+- Using the `spread()` function, redo this data so that each year is a variable. 
+- Your data will look like this at the end:
+ 
+
+```{r, echo=FALSE}
+population %>% 
+  
+  
+```
+
+
+
+## On Your Own: RStudio Practice #10
+
+- Create `population2` from last example:
+
+```{r, eval=FALSE}
+population2 <- population %>% 
+                    spread(year, population)
+```
+
+- Now gather the columns that are labeled by year and create columns `year` and `population`. 
+
+```{r}
+population2 %>%
+  
+```
