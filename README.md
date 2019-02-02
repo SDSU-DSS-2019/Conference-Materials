@@ -11,3 +11,10 @@ Welcome to the github repo of the Tidyverse Workshop.
 
 
 
+## Questions: 
+
+For Questions during this presentation:
+
+- Go to www.slido.com
+- Enter code: #V564
+- Ask Questions and upvote ones already asked. 
